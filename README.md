@@ -22,7 +22,7 @@ Thiss app is used to create a portfolio of team members. When the user enters "n
 ---
 
 ## Walk-through of Application Video
-
+https://drive.google.com/file/d/1GckRYZ82LdZKezYhpHmNYG5VvUPnecd4/view?usp=sharing
 
 ---
 
